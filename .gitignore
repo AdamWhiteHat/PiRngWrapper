@@ -45,3 +45,17 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+PiRngWrapperConsole/obj/*
+PiRngWrapperConsole/bin/*
+
+PiRngWrapperLibrary/obj/*
+PiRngWrapperLibrary/bin/*
+
+*.suo
+*.pdb
+*.cache
+*.vhost.*
+*.FileListAbsolute.txt
+
