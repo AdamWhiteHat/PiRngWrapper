@@ -2,6 +2,12 @@
 using System.IO;
 using System.Diagnostics;
 
+/* For instructions on how to set up your raspberry pi for
+ * true, hardware random number generation, please see:
+ * 
+ * http://www.csharpprogramming.tips/2016/07/true-hardware-random-number-generator.html
+ */
+
 namespace PiRngWrapperLibrary
 {
 	public static class HwrngDeviceWrapper
